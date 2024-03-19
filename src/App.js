@@ -1,11 +1,11 @@
 
 import './App.css';
-import ButtonList from './Components/ButtonList/ButtonList';
-import Head from './Components/Head/Head';
+import Head from './Components/Head';
 
 function App() {
   return (
-   <div> <Head/>
+   <div>
+    <Head/>
    
    </div>
   )
